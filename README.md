@@ -15,3 +15,7 @@ Then visit http://localhost:8000 to view the app.
 
 The EMAIL_HOST_USER and EMAIL_HOST_PASSWORD in the above image are personal email id and password used to send email for password reset functionality from admins personal GMAIL. So you can change it to your email and password while running the app for yourself, the proper place to find the global varibles is   PyShop1 >> settings.py >> bottom_of_the_page.
 
+HTML FILES: 1. Base.html in the templates folder.
+            2. Specific htmls files in  different template app folders.
+            
+CSS FILE: products >> static >> products >> main.css
