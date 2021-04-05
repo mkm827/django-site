@@ -1,6 +1,6 @@
 Programmershub-Django App
 
-You can view a working version of this app here at ----- myprogrammershub.com
+You can view a working version of this app here at -----  http://myprogrammershub.com
 
 PyShop1 == django-site     #dummy name for the main project file which contains the url.py, settings.py ,wsgi.py which are responsible for binding the project together.
 products == blog-app       #blog directory that manages different functionalities such as updating ,adding, deleting etc for the posts and organising them on the home page.
